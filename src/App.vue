@@ -1,11 +1,14 @@
 <template>
-	<router-view />
+	<landing-page></landing-page>
 </template>
 
 <script>
+	import LandingPage from "@/pages/LandingPage.vue";
 	export default {
 		name: "App",
-		components: {},
+		components: {
+			LandingPage,
+		},
 	};
 </script>
 

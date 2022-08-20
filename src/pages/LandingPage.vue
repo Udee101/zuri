@@ -17,18 +17,18 @@
 			</p>
 
 			<div class="hero-btn mt-5 mb-4 p-3">
-				<router-link to="/training"
+				<a href="https://udee101.github.io/zuri-training/" target="blank"
 					><button-label
 						value="I'm new to the Industry"
 						class="btn1 mt-3 mb-2"
 					></button-label
-				></router-link>
-				<router-link to="/talent"
+				></a>
+				<a href="https://talent.zuri.team" target="blank"
 					><button-label
 						value="I need industry experience"
 						class="btn2 mt-3"
 					></button-label
-				></router-link>
+				></a>
 			</div>
 		</main>
 	</section>
