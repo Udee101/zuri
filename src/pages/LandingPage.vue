@@ -137,7 +137,7 @@
 		</div>
 
 		<div class="copyright text-center mx-auto">
-			<p>&copy; 2020 ZURI TEAM</p>
+			<p>&copy; 2022 ZURI TEAM</p>
 		</div>
 	</footer>
 </template>
