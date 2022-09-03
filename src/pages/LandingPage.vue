@@ -52,7 +52,7 @@
 								<program-box
 									:image_src="require('@/assets/zuri-training-img.svg')"
 									content="We understand a complete beginner cannot become a professional after a few weeks, the aim here is to get you familiar enough with each tools such that you'll be able to continue learning on your own with minimal support."
-									web_link="https://training.zuri.team"
+									web_link="https://udee101.github.io/zuri-training/"
 									value="I want to be trained >"
 								></program-box>
 							</div>
